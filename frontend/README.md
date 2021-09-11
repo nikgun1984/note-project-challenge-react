@@ -5,8 +5,7 @@ README: React Frontend
 
 ```sh
 # from within this directory:
-npm install
-PORT=4000 npm start
+yarn
 ```
 
-This React app will be running on `http://localhost:4000`.
+This React app will be running on `http://localhost:4000` with bash .env var PORT=4000
